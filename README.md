@@ -66,4 +66,4 @@ Edit `constants.py` to change:
 
 ## License
 
-MIT - You can use and change this code however you want. See the LICENSE file for more information.
+MIT - You can use and change this code however you want. See the [LICENSE](LICENSE) file for more information.
